@@ -1,0 +1,12 @@
+name: SellPlugin
+version: 1.0.0
+main: com.example.sell.SellPlugin
+api-version: 1.21
+author: Sen
+description: Premium esya satis sistemi
+depend: [Vault]
+
+commands:
+  sat:
+    description: Esya satma menusunu acar
+    aliases: [sell, satis]
