@@ -1,0 +1,21 @@
+# Eşyaların satış fiyatları (Vault / Para)
+# İstediğin eşyayı ve fiyatını buradan değiştirebilirsin.
+fiyatlar:
+  COBBLESTONE: 1.0
+  STONE: 1.5
+  OAK_LOG: 2.0
+  IRON_INGOT: 15.0
+  GOLD_INGOT: 25.0
+  DIAMOND: 50.0
+  EMERALD: 75.0
+  NETHERITE_INGOT: 500.0
+  COAL: 5.0
+  REDSTONE: 4.0
+  LAPIS_LAZULI: 8.0
+  DIAMOND_BLOCK: 450.0
+  IRON_BLOCK: 135.0
+  GOLD_BLOCK: 225.0
+  EMERALD_BLOCK: 675.0
+  WHEAT: 2.0
+  CARROT: 1.5
+  POTATO: 1.5
